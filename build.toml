@@ -7,5 +7,5 @@ path = 'Source\FPGA Addon SysDef API.lvproj'
 
 [package]
 type = 'viPackage'
-vipb_name = 'Advanced SysDef API.vipb'
+vipb_path = 'Advanced SysDef API.vipb'
 output_path = 'Built'
