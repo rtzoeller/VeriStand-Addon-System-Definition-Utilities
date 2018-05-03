@@ -2,9 +2,6 @@
 build_output_dir = 'Built'
 archive_location = '\\us-aus-hilbuild\builds\niveristandadd-ons\libraries\advanced_sys_def'
 
-[projects.api]
-path = 'Source\FPGA Addon SysDef API.lvproj'
-
 [package]
 type = 'viPackage'
 vipb_path = 'Advanced SysDef API.vipb'
